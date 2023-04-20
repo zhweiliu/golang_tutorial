@@ -1,4 +1,4 @@
-# Create a module in GO
+# Create a module in Go
 
 ## Prerequisites
 - **[Tutorial: Get started with Go](https://go.dev/doc/tutorial/getting-started)**
